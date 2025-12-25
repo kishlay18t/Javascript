@@ -1,10 +1,10 @@
-## Core JS concepts used in the following mini-projects:
+# Core JS concepts used in the following mini-projects:
 1. Expense Analyzer
 2. Transanction frequency analyzer
 3. Log Analyzer
 
 ## Data Structure and Accessing
-# Arrays:
+### Arrays:
 - Elements can be of different data types
 - Elements can be an object.
 - Indexed accessing: 
@@ -13,7 +13,7 @@ array = [{category: "Food", amount: 200}];
 console.log(array[0].category);
 ```
 
-# Objects:
+### Objects:
 - key-value pairs (convert to array based on neccessity)
 ``` JS
 obj[key] --> Dynamic access

@@ -36,7 +36,6 @@ array.reduce((acc, curr) => {
 }, {});
 ```  
 
-```markdown
 # JavaScript Data Processing Notes  
 (Arrays, Objects, map / filter / reduce)
 
@@ -137,4 +136,4 @@ Avoid ==
 JavaScript backend logic is about DATA SHAPE TRANSFORMATION.
 
 array → object → entries → array
-```
+

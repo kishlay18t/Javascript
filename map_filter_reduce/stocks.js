@@ -1,4 +1,5 @@
-let stocks = [
+let stocks = 
+[
     {name: 'A', price: 100},
     {name: 'B', price: 200},
     {name: 'C', price: 300},
